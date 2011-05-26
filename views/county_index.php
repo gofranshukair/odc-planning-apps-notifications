@@ -142,10 +142,10 @@ foreach ($data as $app) { ?>
     </div>
 <?php } ?>
     <div style="clear:left;">&nbsp;</div>
-    <p>Older planning applications are available through the City Council's <a href="http://www.galwaycity.ie/AllServices/Planning/OnlinePlanningEnquirySystem/">Online Planning Enquiry System</a>.</p>
+   
     <div id="footer">
       <div id="deri-logo"><a href="http://www.deri.ie/"><img src="http://lab.linkeddata.deri.ie/2010/planning-apps/deri-logo-100px.png" alt="DERI Galway" /></a></div>
-      <em>This is <strong>not</strong> an official website of the <a href="http://www.galwaycity.ie/">Galway City Council</a>!</em>
+      <em>This is <strong>not</strong> an official website</em>
       Contact: <a href="http://richard.cyganiak.de/">Richard Cyganiak</a> (<a href="http://twitter.com/cygri">@cygri</a>)
     </div>
 </div>

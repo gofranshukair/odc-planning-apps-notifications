@@ -89,3 +89,7 @@ font-weight:bold;
 
 }
 
+#galway-logo { float: left; margin: 0 1em 1em 0; }
+#footer { clear: left; border-top: 1px solid #bbb; padding-top: 0.3em; margin-bottom: 1.4em; }
+#deri-logo { float: right; }
+
